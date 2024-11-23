@@ -1,0 +1,1 @@
+Global store if needed - Try mobx or exome js

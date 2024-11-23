@@ -1,0 +1,1 @@
+This directory contains all independent components on a higher level.
